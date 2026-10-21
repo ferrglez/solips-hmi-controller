@@ -1,0 +1,22 @@
+﻿# KiCad temporary files
+*.lck
+*.kicad_prl
+*.bak
+*.tmp
+*~
+_autosave-*
+*-backups/
+.history/
+.history
+
+# KiCad installation templates
+10.0/
+
+# Local backup
+SOLIPS_HMI_CONTROLLER_REV_A - copia/
+
+# FreeRouting temporary files
+*.dsn
+*.ses
+
+# Keep project design rules and documentation
