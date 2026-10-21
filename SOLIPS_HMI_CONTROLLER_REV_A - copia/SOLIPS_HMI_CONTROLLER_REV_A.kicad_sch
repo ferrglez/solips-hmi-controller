@@ -1,0 +1,1073 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "b2ef99a1-beab-40f1-b7b2-efac53b5b3bb")
+	(paper "A4")
+	(lib_symbols)
+	(junction
+		(at 170.18 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0497d3b1-5c8b-4e77-871d-94825bfaad8f")
+	)
+	(junction
+		(at 147.32 49.53)
+		(diameter 0)
+		(color 255 148 50 1)
+		(uuid "58c543b5-0368-42df-ac1f-f90d316c45da")
+	)
+	(junction
+		(at 172.72 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65054bd2-ad78-4674-9648-cc1e1132c052")
+	)
+	(junction
+		(at 147.32 27.94)
+		(diameter 0)
+		(color 255 148 50 1)
+		(uuid "b12b0547-a63f-4756-ab9a-854b4c8d5c05")
+	)
+	(junction
+		(at 130.81 49.53)
+		(diameter 0)
+		(color 255 148 50 1)
+		(uuid "e6ac4aca-ea05-41aa-b7b8-bf6d1bf63292")
+	)
+	(wire
+		(pts
+			(xy 154.94 86.36) (xy 193.04 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 216 53 1)
+		)
+		(uuid "01ee6ad8-2a4b-4ee1-9145-151782833f62")
+	)
+	(wire
+		(pts
+			(xy 160.02 83.82) (xy 160.02 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 112 221 1)
+		)
+		(uuid "05b36c58-0774-434c-a404-3291d3398e58")
+	)
+	(wire
+		(pts
+			(xy 175.26 93.98) (xy 170.18 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 195 81 255 1)
+		)
+		(uuid "0ecc4157-7f6a-4863-b04f-a3a787db688b")
+	)
+	(wire
+		(pts
+			(xy 143.51 87.63) (xy 143.51 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 198 172 255 1)
+		)
+		(uuid "1030d125-8308-4d08-b292-35beb1848a82")
+	)
+	(wire
+		(pts
+			(xy 99.06 86.36) (xy 140.97 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 181 50 81 1)
+		)
+		(uuid "11b2a789-ba95-467a-a62c-638b0a569b99")
+	)
+	(wire
+		(pts
+			(xy 135.89 27.94) (xy 218.44 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 148 50 1)
+		)
+		(uuid "11beeff9-657b-4026-bd61-4ac0fd921e35")
+	)
+	(wire
+		(pts
+			(xy 138.43 33.02) (xy 135.89 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b8ad435-fb55-4998-9df7-caeacfb49074")
+	)
+	(wire
+		(pts
+			(xy 154.94 80.01) (xy 154.94 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 216 53 1)
+		)
+		(uuid "262d65c3-571b-49a5-972d-562468a1ab89")
+	)
+	(wire
+		(pts
+			(xy 140.97 86.36) (xy 140.97 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 181 50 81 1)
+		)
+		(uuid "2ccc0d07-e431-424b-b7f9-de2536752dd3")
+	)
+	(wire
+		(pts
+			(xy 204.47 87.63) (xy 218.44 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 148 50 1)
+		)
+		(uuid "31f43de4-02b6-47e9-80cf-8a4a169a6ccc")
+	)
+	(wire
+		(pts
+			(xy 181.61 104.14) (xy 181.61 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 152 255 1)
+		)
+		(uuid "3569dcfc-5bb1-4073-959e-45e99c9fd7c4")
+	)
+	(wire
+		(pts
+			(xy 152.4 80.01) (xy 152.4 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 195 255 48 1)
+		)
+		(uuid "46c1f1a4-58ca-4599-a819-bee63d8982f7")
+	)
+	(wire
+		(pts
+			(xy 172.72 80.01) (xy 170.18 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "493bfbcd-c9cf-4086-acfa-163cfc05d34a")
+	)
+	(wire
+		(pts
+			(xy 167.64 80.01) (xy 167.64 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 62 161 191 1)
+		)
+		(uuid "4b8f47e1-6419-4a00-8c10-0035c562d96d")
+	)
+	(wire
+		(pts
+			(xy 130.81 99.06) (xy 130.81 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 148 50 1)
+		)
+		(uuid "642f8b06-ffee-4697-b149-520bd92b64b0")
+	)
+	(wire
+		(pts
+			(xy 120.65 49.53) (xy 130.81 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 148 50 1)
+		)
+		(uuid "6445d6ac-1b4c-4d74-b284-0e7de94645d8")
+	)
+	(wire
+		(pts
+			(xy 195.58 85.09) (xy 157.48 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 53 255 253 1)
+		)
+		(uuid "679e6de1-9d4b-4fe9-b3b5-282fa9bc7962")
+	)
+	(wire
+		(pts
+			(xy 114.3 59.69) (xy 114.3 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "691d8e59-f4e2-4e42-b5db-e386ae6b9f8c")
+	)
+	(wire
+		(pts
+			(xy 147.32 99.06) (xy 130.81 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 148 50 1)
+		)
+		(uuid "6f26eb4e-90e7-4344-975e-4313517d0d7f")
+	)
+	(wire
+		(pts
+			(xy 193.04 78.74) (xy 193.04 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 216 53 1)
+		)
+		(uuid "7182ab52-6af9-4f05-8214-f07d56f8f19d")
+	)
+	(wire
+		(pts
+			(xy 175.26 91.44) (xy 175.26 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 152 255 1)
+		)
+		(uuid "78b5f88e-00f9-4504-bd61-722ea39132b2")
+	)
+	(wire
+		(pts
+			(xy 175.26 104.14) (xy 175.26 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 195 81 255 1)
+		)
+		(uuid "9146420e-bc67-453d-afa1-6e13671ae72a")
+	)
+	(wire
+		(pts
+			(xy 198.12 83.82) (xy 160.02 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 112 221 1)
+		)
+		(uuid "91ef26fd-d2ae-4d54-b7d0-262c06c1a3a6")
+	)
+	(wire
+		(pts
+			(xy 120.65 49.53) (xy 120.65 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 148 50 1)
+		)
+		(uuid "94c48934-835d-43df-a212-bca336bbc7dd")
+	)
+	(wire
+		(pts
+			(xy 198.12 78.74) (xy 198.12 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 112 221 1)
+		)
+		(uuid "97d2e1fa-361d-4e25-806c-c588826d1256")
+	)
+	(wire
+		(pts
+			(xy 167.64 92.71) (xy 177.8 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 62 161 191 1)
+		)
+		(uuid "9bc38b88-61f9-4841-b5db-af861244020a")
+	)
+	(wire
+		(pts
+			(xy 147.32 27.94) (xy 147.32 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 148 50 1)
+		)
+		(uuid "9ffd3b9c-d480-44b5-9885-9e8fdf6fbf15")
+	)
+	(wire
+		(pts
+			(xy 149.86 80.01) (xy 149.86 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad21e889-0abd-4a35-ac4b-595cdeec172e")
+	)
+	(wire
+		(pts
+			(xy 157.48 85.09) (xy 157.48 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 53 255 253 1)
+		)
+		(uuid "b0d27c71-261a-4e70-bbf1-2537d9356fff")
+	)
+	(wire
+		(pts
+			(xy 218.44 87.63) (xy 218.44 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 148 50 1)
+		)
+		(uuid "b3401449-14af-4509-992f-d6022ee12f0f")
+	)
+	(wire
+		(pts
+			(xy 186.69 88.9) (xy 186.69 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b750dec9-f2ba-4f73-ae22-954938f9064a")
+	)
+	(wire
+		(pts
+			(xy 101.6 83.82) (xy 101.6 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 198 172 255 1)
+		)
+		(uuid "ba0641ea-8592-455c-8731-f1813a82f8b0")
+	)
+	(wire
+		(pts
+			(xy 195.58 78.74) (xy 195.58 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 53 255 253 1)
+		)
+		(uuid "c08a3e49-ba40-4599-aa0e-6572d6c90992")
+	)
+	(wire
+		(pts
+			(xy 99.06 83.82) (xy 99.06 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 181 50 81 1)
+		)
+		(uuid "c9281f80-1dd1-4eb3-83fb-6bb04aa14d67")
+	)
+	(wire
+		(pts
+			(xy 152.4 87.63) (xy 190.5 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 195 255 48 1)
+		)
+		(uuid "c9663653-5305-4413-8885-df8dc5ac08a1")
+	)
+	(wire
+		(pts
+			(xy 204.47 78.74) (xy 204.47 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 148 50 1)
+		)
+		(uuid "d0b719f1-0013-4568-95ac-a8bdd87e03a8")
+	)
+	(wire
+		(pts
+			(xy 149.86 88.9) (xy 186.69 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6feb48a-08e6-4080-a5e4-32ddd6ecb80c")
+	)
+	(wire
+		(pts
+			(xy 170.18 93.98) (xy 170.18 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 195 81 255 1)
+		)
+		(uuid "d7d543d3-8f50-4d4e-9b14-7ce3cb51323c")
+	)
+	(wire
+		(pts
+			(xy 181.61 91.44) (xy 175.26 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 152 255 1)
+		)
+		(uuid "e0baa731-a4d2-4bb5-b503-6415d9e6d926")
+	)
+	(wire
+		(pts
+			(xy 177.8 92.71) (xy 177.8 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 62 161 191 1)
+		)
+		(uuid "e2d1951c-ba67-4cf8-be17-53ea0e39b8e1")
+	)
+	(wire
+		(pts
+			(xy 190.5 87.63) (xy 190.5 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 195 255 48 1)
+		)
+		(uuid "e5d520a6-041a-42c2-8eec-49a6aaff48e3")
+	)
+	(wire
+		(pts
+			(xy 101.6 87.63) (xy 143.51 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 198 172 255 1)
+		)
+		(uuid "e7db7c59-6230-4c33-8762-764af7fd5f4f")
+	)
+	(wire
+		(pts
+			(xy 138.43 45.72) (xy 138.43 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f89883ae-ae2e-417f-9a88-b6101572b6ec")
+	)
+	(wire
+		(pts
+			(xy 130.81 49.53) (xy 147.32 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 148 50 1)
+		)
+		(uuid "f9527fe9-688c-469c-83d9-2b0c35e79bb4")
+	)
+	(wire
+		(pts
+			(xy 114.3 45.72) (xy 138.43 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbe90ace-6ba2-4cbb-b9d3-cd4e7fc0c4ab")
+	)
+	(wire
+		(pts
+			(xy 172.72 104.14) (xy 172.72 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 145 0 255 1)
+		)
+		(uuid "fcc4149c-ed76-47bf-9f49-199c71063577")
+	)
+	(wire
+		(pts
+			(xy 147.32 104.14) (xy 147.32 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 148 50 1)
+		)
+		(uuid "fe30506d-7c37-4c3b-876b-287f01984891")
+	)
+	(sheet
+		(at 95.25 25.4)
+		(size 40.64 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "05ec0a5c-9647-4b40-9959-19c73f5866a7")
+		(property "Sheetname" "01_POWER"
+			(at 95.25 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "01_POWER.kicad_sch"
+			(at 95.25 45.0346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_5V" input
+			(at 135.89 33.02 0)
+			(uuid "532c2f1a-8e33-444d-95f8-48db7be1eb57")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "+3V3" output
+			(at 135.89 27.94 0)
+			(uuid "a8301a8d-dd11-4cbc-b808-ecaf4e4c952c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "SOLIPS_HMI_CONTROLLER_REV_A"
+				(path "/b2ef99a1-beab-40f1-b7b2-efac53b5b3bb"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 90.17 59.69)
+		(size 35.56 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "10d1682a-05b3-42fa-9511-bffc82f69c43")
+		(property "Sheetname" "02_USB_UART"
+			(at 89.4584 83.82 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "02_USB_UART.kicad_sch"
+			(at 126.3146 83.82 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_5V" output
+			(at 114.3 59.69 90)
+			(uuid "5217a8d8-9dc7-4704-835e-8e7c339a67b0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "+3V3" input
+			(at 120.65 59.69 90)
+			(uuid "bb02007b-670f-44d5-996c-41b657fb5d88")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MCU_UART_TX" input
+			(at 99.06 83.82 270)
+			(uuid "4327ad89-83c0-4c2f-8412-ca9dd8e25866")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MCU_UART_RX" output
+			(at 101.6 83.82 270)
+			(uuid "ab759b85-bfe8-401a-a103-3b4a0ac1f749")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "SOLIPS_HMI_CONTROLLER_REV_A"
+				(path "/b2ef99a1-beab-40f1-b7b2-efac53b5b3bb"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 182.88 60.96)
+		(size 27.94 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "36965fbf-a33d-4165-b521-3099ad8b80c5")
+		(property "Sheetname" "04_DISPLAY"
+			(at 182.88 60.2484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "04_DISPLAY.kicad_sch"
+			(at 182.88 79.3246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "TFT_MOSI" input
+			(at 186.69 78.74 270)
+			(uuid "b001ff09-22e0-484c-8a07-0caf66948a50")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TFT_SCK" input
+			(at 190.5 78.74 270)
+			(uuid "06aa4d6d-fced-4532-8ac2-b467a4daf69b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TFT_CS" input
+			(at 193.04 78.74 270)
+			(uuid "5442937a-313a-480b-b075-e6dd21129606")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TFT_DC" input
+			(at 195.58 78.74 270)
+			(uuid "325f1a5c-9140-4395-a2ab-a0793ca00eb1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TFT_RST" input
+			(at 198.12 78.74 270)
+			(uuid "0255b53c-170c-41e4-ab16-13f610040ea3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "+3V3" input
+			(at 204.47 78.74 270)
+			(uuid "20ebcab4-4a6c-427d-9307-5d669d807417")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "SOLIPS_HMI_CONTROLLER_REV_A"
+				(path "/b2ef99a1-beab-40f1-b7b2-efac53b5b3bb"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 134.62 104.14)
+		(size 67.31 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "52f34958-c7fc-4581-a423-01bfa8e8f7c7")
+		(property "Sheetname" "05_DEBUG"
+			(at 134.62 103.4284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "05_DEBUG.kicad_sch"
+			(at 134.62 117.4246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "+3V3" input
+			(at 147.32 104.14 90)
+			(uuid "c7d3287c-81b0-4a3c-8672-f350deb30a35")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MCU_NRST" bidirectional
+			(at 172.72 104.14 90)
+			(uuid "3735ccce-436e-47f1-8ee2-2504be94d5c2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MCU_SWCLK" bidirectional
+			(at 175.26 104.14 90)
+			(uuid "85c0a6a0-f70d-4bb1-89e3-bd2bfb9ef778")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MCU_SWDIO" bidirectional
+			(at 177.8 104.14 90)
+			(uuid "2e9c1151-40a0-441b-a903-a722c3a7e5e5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MCU_BOOT0" output
+			(at 181.61 104.14 90)
+			(uuid "e02b7249-559d-45db-9d40-b04728bcacfd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "SOLIPS_HMI_CONTROLLER_REV_A"
+				(path "/b2ef99a1-beab-40f1-b7b2-efac53b5b3bb"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 135.89 59.69)
+		(size 43.18 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c9596c98-fdf7-4d75-8495-f3fe434cbf88")
+		(property "Sheetname" "03_MCu"
+			(at 135.1784 80.01 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "03_MCU.kicad_sch"
+			(at 179.6546 80.01 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "+3V3" input
+			(at 147.32 59.69 90)
+			(uuid "50bae611-77be-4ae8-a2a3-b5f42760d082")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MCU_UART_TX" output
+			(at 140.97 80.01 270)
+			(uuid "836fc939-d70a-4e6d-9f7c-413e52b9aba5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MCU_UART_RX" input
+			(at 143.51 80.01 270)
+			(uuid "f24e4f1e-aff0-4eb9-9ba7-b8d90a5ca7d3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TFT_MOSI" output
+			(at 149.86 80.01 270)
+			(uuid "da75e806-2c0b-4afe-86c2-829094bb188a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TFT_SCK" output
+			(at 152.4 80.01 270)
+			(uuid "5694ad0a-34af-4c0b-afe2-84e619250372")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TFT_CS" output
+			(at 154.94 80.01 270)
+			(uuid "f764dbf2-ecf6-4bc0-9506-324eb19d255b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MCU_SWDIO" bidirectional
+			(at 167.64 80.01 270)
+			(uuid "2f9bf075-2876-4056-951d-decca061b1f7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TFT_DC" output
+			(at 157.48 80.01 270)
+			(uuid "cbe5938e-5cb5-4399-8f52-c8aae1f5286b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TFT_RST" output
+			(at 160.02 80.01 270)
+			(uuid "0105e2a2-d96c-47ba-a705-9823773f402e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MCU_SWCLK" bidirectional
+			(at 170.18 80.01 270)
+			(uuid "97b6be55-e2c1-4128-b823-62ef9b053fe4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MCU_NRST" bidirectional
+			(at 172.72 80.01 270)
+			(uuid "d8999482-c9a4-4fc4-9eec-7e3e080493d4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MCU_BOOT0" input
+			(at 175.26 80.01 270)
+			(uuid "eaa0b17e-5447-4934-a1fb-228edf19b9ac")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "SOLIPS_HMI_CONTROLLER_REV_A"
+				(path "/b2ef99a1-beab-40f1-b7b2-efac53b5b3bb"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,106 @@
+ERC report (2026-10-02T21:08:21, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(7200 mils, 2400 mils): Label 'USB_UART_DTR'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(7250 mils, 1800 mils): Label 'MCU_UART_RX'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(7250 mils, 1950 mils): Label 'MCU_UART_TX'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(7300 mils, 2050 mils): Label 'USB_UART_RTS'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(3250 mils, 3200 mils): Label 'MCU_SWCLK'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(3300 mils, 3050 mils): Label 'MCU_SWDIO'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(6150 mils, 3300 mils): Label 'MCU_BOOT0'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(3350 mils, 3250 mils): Label 'TFT_BL_PWM'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(3500 mils, 3150 mils): Label 'TFT_RST'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(3550 mils, 3050 mils): Label 'TFT_DC'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(3600 mils, 2950 mils): Label 'TFT_CS'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(5500 mils, 3250 mils): Label 'MCU_SWDIO'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(5550 mils, 3350 mils): Label 'MCU_SWCLK'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(5600 mils, 2450 mils): Label 'TFT_SCK'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(5600 mils, 2650 mils): Label 'TFT_MOSI'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(5600 mils, 2850 mils): Label 'MCU_UART_TX'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(5600 mils, 3000 mils): Label 'MCU_UART_RX'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(3600 mils, 2600 mils): Label 'DISPLAY_VCC'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(3600 mils, 2800 mils): Label 'TFT_SCK'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(3600 mils, 2900 mils): Label 'TFT_MOSI'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(3600 mils, 3000 mils): Label 'TFT_CS'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(3600 mils, 3100 mils): Label 'TFT_DC'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(3600 mils, 3200 mils): Label 'TFT_RST'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(3600 mils, 3300 mils): Label 'TFT_BL_PWM'
+
+***** Sheet /01_POWER/
+
+***** Sheet /02_USB_UART/
+[pin_not_connected]: Pin not connected
+    ; error
+    @(2450 mils, 3800 mils): Symbol J2 Pin SH [SHIELD, Pasivo, Línea]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(6550 mils, 1700 mils): Symbol U2 Pin 6 [VDD, Entrada de alimentación, Línea]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(7050 mils, 2000 mils): Symbol U2 Pin 20 [RXD, Entrada, Línea]
+
+***** Sheet /03_MCu/
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(2950 mils, 5400 mils): Symbol #PWR01 Pin 1 [Entrada de alimentación, Línea]
+
+***** Sheet /04_DISPLAY/
+
+***** Sheet /05_DEBUG/
+
+ ** ERC messages: 28  Errors 4  Warnings 24
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters
